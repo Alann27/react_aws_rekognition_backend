@@ -1,0 +1,10 @@
+.cache
+node_modules/*
+.idea/*
+.env
+public/index.html
+.vscode/
+public/build
+build/
+.env.docker
+uploads/*
